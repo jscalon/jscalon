@@ -69,7 +69,7 @@ mi portfolio. Todos los casos, en **[jscalon.dev](https://jscalon.dev/es/project
 ---
 
 <details>
-<summary><strong>🇬🇧 English</strong></summary>
+<summary><strong>English</strong></summary>
 
 ## Hi, I'm Juan 👋
 
