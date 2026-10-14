@@ -58,6 +58,11 @@ Código abierto: **[ServiFrescos](https://github.com/jscalon/servifrescos)**, ge
 productos y precios para once tiendas minoristas, y **[jscalon.dev](https://github.com/jscalon/portfolio)**,
 mi portfolio. Todos los casos, en **[jscalon.dev](https://jscalon.dev/es/projects/)**.
 
+Por gusto, escritos a mano para practicar algorítmica y matemática: la
+**[espiral de Ulam](https://jscalon.github.io/Ulam-Spiral/)**, el
+**[Juego de la Vida](https://jscalon.github.io/Game-of-Life/)** —los dos se prueban en el
+navegador— y **[álgebra lineal desde cero](https://github.com/jscalon/Linear-Algebra)** en Python.
+
 ## 🐍 Contribuciones
 
 <picture>
@@ -94,5 +99,10 @@ detail — with screenshots and the technical decisions behind it — on my port
 Open source: **[ServiFrescos](https://github.com/jscalon/servifrescos)**, centralized product
 and price management for eleven retail stores, and **[jscalon.dev](https://github.com/jscalon/portfolio)**,
 my portfolio. All the case studies are at **[jscalon.dev](https://jscalon.dev/en/projects/)**.
+
+Just for fun, hand-written to practise algorithms and maths: the
+**[Ulam spiral](https://jscalon.github.io/Ulam-Spiral/)** and
+**[Conway's Game of Life](https://jscalon.github.io/Game-of-Life/)** — both playable in the
+browser — and **[linear algebra from scratch](https://github.com/jscalon/Linear-Algebra)** in Python.
 
 </details>
